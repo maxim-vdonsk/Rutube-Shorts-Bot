@@ -1,4 +1,9 @@
-python-dotenv==1.0.0
 python-telegram-bot==20.3
-yoomoney==0.1.1
-pyOpenSSL==23.2.0
+python-dotenv==1.0.0
+opencv-python-headless==4.8.0.74
+pytesseract==0.3.10
+PyMuPDF==1.22.5
+gTTS==2.3.2
+m3u8==3.2.0
+alive-progress==2.4.1
+requests==2.31.0
