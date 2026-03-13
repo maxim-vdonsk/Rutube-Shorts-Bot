@@ -1,0 +1,18 @@
+# Rutube Shorts Bot - Минимальная версия
+# Только загрузка видео из Rutube Shorts
+# Требуется Python 3.9+
+
+# Telegram Bot API
+python-telegram-bot==20.3
+
+# Переменные окружения
+python-dotenv==1.0.0
+
+# Работа с m3u8 плейлистами
+m3u8==3.2.0
+
+# Индикатор прогресса
+alive-progress==2.4.1
+
+# HTTP запросы
+requests==2.31.0
